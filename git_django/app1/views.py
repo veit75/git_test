@@ -14,6 +14,12 @@ posts = [
         'content': 'Auf nach Wacken!',
         'date': '22.August.2022'
     },
+    {
+        'author': 'Linus Torwalds',
+        'title': 'USE LINUX FOLKS',
+        'content': 'NO BS GUYS, MS SUCKS',
+        'date': '23.August.2022'
+    },
 
 ]
 
