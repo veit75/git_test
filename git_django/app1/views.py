@@ -14,6 +14,12 @@ posts = [
         'content': 'Auf nach Wacken!',
         'date': '22.August.2022'
     },
+    {
+        'author': 'FettEX',
+        'title': 'Abnehmen',
+        'content': 'whatever it takes',
+        'date': '11.September.2022'
+    },
 
 ]
 
