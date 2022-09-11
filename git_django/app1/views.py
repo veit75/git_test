@@ -18,7 +18,7 @@ posts = [
         'author': 'FettEX',
         'title': 'Abnehmen',
         'content': 'whatever it takes',
-        'date': '11.September.2022'
+        'date': '11.September.2022 12.37 von pycharm'
     },
 
 ]
